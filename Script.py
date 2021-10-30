@@ -5,8 +5,8 @@ You Can't Use Me in Your Group because I'm a private cat... 😁
 I only work on <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP 😌</a>
 
 ©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a></b>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """HEY {}
+YOU CAN'T USE ME BECAUSE IAM A PRIVET CAT."""
     ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆: 𝑹ᴇxɪᴇ
 ➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : [𝑺𝒉𝒊𝒗𝒂](https://t.me/OGGY123kph)
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : 𝑷ʏʀᴏɢʀᴀᴍ
