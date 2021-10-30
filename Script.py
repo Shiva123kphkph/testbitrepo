@@ -7,7 +7,9 @@ I only work on <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP 😌</a>
 ©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a></b>"""
     HELP_TXT = """HEY {}
 YOU CAN'T USE ME BECAUSE IAM A PRIVET CAT."""
-    ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
+    ABOUT_TXT = """😒 HEY {} DUDE 🚶‍♂️⚠️
+
+➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
 ➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
 ➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code>Everyone in this journey</code>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
