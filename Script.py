@@ -8,7 +8,7 @@ I only work on <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP 😌</a>
     HELP_TXT = """HEY {}
 YOU CAN'T USE ME BECAUSE IAM A PRIVET CAT."""
     ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆: 𝑹ᴇxɪᴇ
-➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : [𝑺𝒉𝒊𝒗𝒂](https://t.me/OGGY123kph)
+➪ <b>CREATOR</b> : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : 𝑷ʏʀᴏɢʀᴀᴍ
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : 𝑷ʏᴛʜᴏɴ 3
 ➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : 𝑴ᴏɴɢᴏ ᴅʙ
