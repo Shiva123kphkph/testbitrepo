@@ -150,7 +150,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 await asyncio.sleep(5)
                 await Send_message.delete()
 
-            else:
+             else:
                 await query.message.edit_text(
                     "I'm not connected to any groups!\nCheck /connections or connect to any groups",
                     quote=True
