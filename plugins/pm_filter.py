@@ -140,12 +140,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 except:
                     await query.message.edit_text("Make sure I'm present in your group!!", quote=True)
                     return
-           else:
-               await query.message.edit_text(
-                   "I'm not connected to any groups!\nCheck /connections or connect to any groups",
-                   quote=True
-               )
-               return
+            else:
+                await query.message.edit_text(
+                    "I'm not connected to any groups!\nCheck /connections or connect to any groups",
+                    quote=True
+                )
+                return
 
         elif chat_type in ["group", "supergroup"]:
             grp_id = query.message.chat.id
