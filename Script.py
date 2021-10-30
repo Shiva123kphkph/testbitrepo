@@ -1,9 +1,10 @@
 class script(object):
-    START_TXT = """**HEY {} DUDE 🙋‍♂️ ,
+    START_TXT = """<b>HEY {} DUDE 🙋‍♂️ ,
 എന്റെ പേര് 𝑹ᴇxɪᴇ ഞാൻ <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP</a> ഇൽ വെറുതെ ഇരിക്കുന്ന BOT ആണ്,  \n 
-\n You Can't Use Me in Your Group because I'm a private bot....🤓
+You Can't Use Me in Your Group because I'm a private bot....🤓
 I only work on <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP 😌</a>
-©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>**"""
+
+©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a></b>"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝚟𝚊 𝙼𝚊𝚛𝚒𝚊
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝚃𝚎𝚊𝚖 𝙴𝚟𝚊 𝙼𝚊𝚛𝚒𝚊
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
