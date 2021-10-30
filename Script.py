@@ -1,20 +1,19 @@
 class script(object):
-    START_TXT = """<b>HEY {} DUDE 🙋‍♂️ ,
-എന്റെ പേര് 𝑹ᴇxɪᴇ ഞാൻ <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP</a> ഇൽ വെറുതെ ഇരിക്കുന്ന BOT ആണ്,  \n 
-You Can't Use Me in Your Group because I'm a private bot....🤓
+    START_TXT = """<b>HOW ARE YOU {} DUDE 🤩
+\nഎന്റെ പേര് 𝑹ᴇxɪᴇ ഞാൻ <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP</a> ഇൽ വെറുതെ ഇരിക്കുന്ന പൂച്ചയാണ്..
+You Can't Use Me in Your Group because I'm a private cat... 😁
 I only work on <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP 😌</a>
 
 ©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a></b>"""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝚟𝚊 𝙼𝚊𝚛𝚒𝚊
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝚃𝚎𝚊𝚖 𝙴𝚟𝚊 𝙼𝚊𝚛𝚒𝚊
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆: 𝑹ᴇxɪᴇ
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : ᴛʜɪs ᴍᴀɴ
+➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : 𝑷ʏʀᴏɢʀᴀᴍ
+➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : 𝑷ʏᴛʜᴏɴ 3
+➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : 𝑴ᴏɴɢᴏ ᴅʙ
+➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : 𝑯ᴇʀᴏᴋᴜ
+➪ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+  
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
