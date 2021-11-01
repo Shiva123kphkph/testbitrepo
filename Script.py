@@ -1,13 +1,13 @@
 class script(object):
     START_TXT = """<b>HOW ARE YOU {} DUDE 🤩
 \nഎന്റെ പേര് 𝑹ᴇxɪᴇ ഞാൻ <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP</a> ഇൽ വെറുതെ ഇരിക്കുന്ന പൂച്ചയാണ്..
-You Can't Use Me in Your Group because I'm a private cat... 😁
-I only work on <a href='https://t.me/moviehubgroupp'>MOVIE HUB GROUP 😌</a>
+\nJUST ADD GROUP AS A ADMIN, I WILL PROVIDE MOVIES THERE 🥰
+
 
 ©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a></b>"""
     HELP_TXT = """HEY {}
-😒 YOU CAN'T USE ME BECAUSE IAM A PRIVET CAT"""
-    ABOUT_TXT = """😒 IAM JUST A <code> Auto-Filter-Bot </code>🚶‍♂️⚠️
+🥰 Just add to your group as admin its all"""
+    ABOUT_TXT = """ IAM JUST A <code> Auto-Filter-Bot </code>🚶‍♂️⚠️
 
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
 ➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
