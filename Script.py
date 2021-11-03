@@ -1,10 +1,7 @@
 class script(object):
-    START_TXT = """<b>HOW ARE YOU {} DUDE 🤩
-\nഎന്റെ പേര് 𝑹ᴇxɪᴇ ഞാൻ ഒരു പൂച്ചയാണ്, ഏത് ഗ്രൂപ്പിലും സിനിമ കൊടുക്കും ഞാൻ 😌..
-\nJUST ADD GROUP AS A ADMIN, I WILL PROVIDE MOVIES THERE 🥰
-
-
-©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a></b>"""
+    START_TXT = """<b>HOW ARE YOU {} DUDE 🤩,Nice To Meet You🙌
+\n𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍
+Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will Provide Movies There..🥰</b>"""
     HELP_TXT = """HEY {}
 🥰 Just add to your group as admin its all"""
     ABOUT_TXT = """ IAM JUST A <code> Auto-Filter-Bot </code>🚶‍♂️⚠️
