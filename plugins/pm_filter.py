@@ -543,46 +543,48 @@ async def cb_handler(client: Client, query: CallbackQuery):
 async def auto_filter(client, message):
     if re.findall("((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F]).*)", message.text):
         return
-    if 2 < len(message.text) < 100:
-        
+    if 2 < len(message.text) < 100:    
+        btn = []
         search = message.text
         files, offset, total_results = await get_search_results(search.lower(), offset=0)
-        if not files:
-            return
-        if SINGLE_BUTTON:
-            btn = [
-                [
-                    InlineKeyboardButton(
-                        text=f"[{get_size(file.file_size)}] {file.file_name}", callback_data=f'files#{file.file_id}'
-                    ),
-                ]
-                for file in files
-            ]
+        if files:
+            for file in files:
+                file_id = file.file_id
+                btn.append(
+                    [InlineKeyboardButton(text=f"{file.file_name}", callback_data=f'files#{file_id}'), InlineKeyboardButton(text=f"{get_size(file.file_size)}", callback_data=f'files_#{file_id}')]
+                    )
         else:
-            btn = [
+            m = await message.reply(
+              text=f"""
+<b>🥺 Dear {message.from_user.mention}
+Sorry  bro ,{search} No Movie/Series Related to the Given Word Was Found 🥺
+<i>Please Go to Google and Confirm the Correct Spelling 🥺🙏</i></b>""",
+          reply_markup=InlineKeyboardMarkup(
                 [
-                    InlineKeyboardButton(
-                        text=f"{file.file_name}",
-                        callback_data=f'files#{file.file_id}',
-                    ),
-                    InlineKeyboardButton(
-                        text=f"{get_size(file.file_size)}",
-                        callback_data=f'files_#{file.file_id}',
-                    ),
+                    [
+                        InlineKeyboardButton("🕵️‍♂️ Search On Google 🕵️‍♂️", url=f"https://google.com/search?q={search}")
+                    ],
+                    [       
+                        InlineKeyboardButton("🧐Did not understand🥲", callback_data="spelling"),
+                    ]
                 ]
-                for file in files
-            ]
+            )
+         )          
+            await asyncio.sleep(10)
+            await m.delete()
+        if not btn:
+            return
 
         if offset != "":
             key = f"{message.chat.id}-{message.message_id}"
             BUTTONS[key] = search
             req = message.from_user.id if message.from_user else 0
             btn.append(
-                [InlineKeyboardButton(text=f"🗓 1/{round(int(total_results)/10)}",callback_data="pages"), InlineKeyboardButton(text="NEXT ⏩",callback_data=f"next_{req}_{key}_{offset}")]
+                [InlineKeyboardButton(text=f"Pᴀɢᴇ 1/{round(int(total_results)/10)}",callback_data="pages"), InlineKeyboardButton(text="𝙉𝙀𝙓𝙏 ☞︎︎︎",callback_data=f"next_{req}_{key}_{offset}")]
             )
         else:
             btn.append(
-                [InlineKeyboardButton(text="🗓 1/1",callback_data="pages")]
+                [InlineKeyboardButton(text="Pᴀɢᴇ 1/1",callback_data="pages")]
             )
         imdb = await get_poster(search) if IMDB else None
         if imdb and imdb.get('poster'):
