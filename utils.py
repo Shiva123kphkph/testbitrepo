@@ -79,6 +79,7 @@ async def get_poster(query, bulk=False, id=False):
         movieid = int(query)
     movie = imdb.get_movie(movieid)
     title = movie.get('title')
+    lang = str(movie.get("lang"))
     genres = ", ".join(movie.get("genres")) if movie.get("genres") else None
     rating = str(movie.get("rating"))
     if movie.get("original air date"):
