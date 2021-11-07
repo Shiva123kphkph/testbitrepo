@@ -97,6 +97,7 @@ async def get_poster(query, bulk=False, id=False):
     return {
         'title': title,
         'year': date,
+        'lang': lang,
         'genres': genres,
         'poster': poster,
         'plot': plot,
