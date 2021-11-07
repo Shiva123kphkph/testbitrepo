@@ -82,6 +82,7 @@ async def get_poster(query, bulk=False, id=False):
     genres = ", ".join(movie.get("genres")) if movie.get("genres") else None
     rating = str(movie.get("rating"))
     if movie.get("original air date"):
+    lang = str(movie.get("lang"))
         date = movie["original air date"]
     elif movie.get("year"):
         date = movie.get("year")
