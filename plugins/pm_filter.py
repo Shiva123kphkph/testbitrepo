@@ -382,6 +382,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "pages":
         await query.answer()
+    elif query.data == "spelling":
+        await query.answer(f"""ഹെയ് {query.from_user.first_name}
+സിനിമ ലഭിക്കണം എങ്കിൽ താങ്കൾ ഗുഗിൾ നോക്കി സിനിമയുടെ correct spelling ഇവിടെ send ചെയ്യുക എങ്കിലേ താങ്കൾ ഉദ്ദേശിക്കുന്ന സിനിമ എനിക്ക് അയച്ചു തരാൻ കഴിയുകയുളളു 😀""",show_alert=True)
+
     elif query.data == "start":
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
