@@ -412,19 +412,19 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('Manual Filter🔖', callback_data='manuelfilter'),
-            InlineKeyboardButton('Auto Filter📂', callback_data='autofilter')
+            InlineKeyboardButton('MANUAL FILTER 🔖', callback_data='manuelfilter'),
+            InlineKeyboardButton('AUTO FILTER 📂', callback_data='autofilter')
             ],[
-            InlineKeyboardButton('Connections ⚙️', callback_data='coct'),
-            InlineKeyboardButton('Extra Mods😁', callback_data='extra')
+            InlineKeyboardButton('CONNECTIONS ⚙️', callback_data='coct'),
+            InlineKeyboardButton('EXTRA MODS 😁', callback_data='extra')
             ],[
-            InlineKeyboardButton('🏠 Home', callback_data='start'),
-            InlineKeyboardButton('🍼 Status', callback_data='stats')
+            InlineKeyboardButton('GROUP 🎬', url='https://t.me/moviehubgroupp'),
+            InlineKeyboardButton('STATS ⭐', callback_data='stats')
             ],[
-            InlineKeyboardButton('😁pin', callback_data='pin'),
-            InlineKeyboardButton('🏠', callback_data='start')
+            InlineKeyboardButton('PIN 📍', callback_data='pin'),
+            InlineKeyboardButton('ABOUT 😎', callback_data='about')
             ],[
-            InlineKeyboardButton('🍼', callback_data='stats')
+            InlineKeyboardButton('HOME 🏡', callback_data='start')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
