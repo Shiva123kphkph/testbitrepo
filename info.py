@@ -30,7 +30,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-LONG_IMDB_DESCRIPTION = False
+LONG_IMDB_DESCRIPTION = True
 MAX_LIST_ELM = None
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TeamEvamaria')
