@@ -80,6 +80,7 @@ async def get_poster(query, bulk=False, id=False):
     movie = imdb.get_movie(movieid)
     title = movie.get('title')
     lang = str(movie.get("lang"))
+    country = str(movie.get("country"))
     genres = ", ".join(movie.get("genres")) if movie.get("genres") else None
     rating = str(movie.get("rating"))
     if movie.get("original air date"):
@@ -98,6 +99,7 @@ async def get_poster(query, bulk=False, id=False):
         'title': title,
         'year': date,
         'lang': lang,
+        'country': country,
         'genres': genres,
         'poster': poster,
         'plot': plot,
