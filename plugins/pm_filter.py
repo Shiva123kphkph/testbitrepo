@@ -598,7 +598,7 @@ Sorry  bro ,{search} No Movie/Series Related to the Given Word Was Found 🥺
                 ]
             )
          )          
-            await asyncio.sleep(10)
+            await asyncio.sleep(20)
             await m.delete()
         if not btn:
             return
