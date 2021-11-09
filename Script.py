@@ -3,7 +3,7 @@ class script(object):
 \n<i>𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍</i>
 <b><i>Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will Provide Movies There..🥰</i></b>"""
     HELP_TXT = """<b>HEY {} DUDE 🙋‍♂️</b>
-<i>Just Add To Your Group As Admin Its All..☺️, I Will Provide Movies There..</i>"""
+\n<b>Just Add To Your Group As Admin Its All..☺️,</b> <i>I Will Provide Movies There...⚡️</i>"""
     ABOUT_TXT = """ IAM JUST A <code> Auto-Filter-Bot </code>🚶‍♂️⚠️
 
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
@@ -15,7 +15,7 @@ class script(object):
 ➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href='https://dashboard.heroku.com/apps'>𝑯ᴇʀᴏᴋᴜ</a>
 ➪ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 : <a href='https://t.me/joinchat/aYbIjDgZqY9lYjQ9'>👉 𝑪ʟɪᴄᴋ 𝑯ᴇʀᴇ</a>
 ➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : <code>v1.0.1 [ 𝑩ᴇᴛᴀ ]</code>
-➪ 🔖 𝑸𝒖𝒐𝒕𝒆 : <code>ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും</code></b>"""
+\n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും</code></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
   
 
