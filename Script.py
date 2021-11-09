@@ -3,8 +3,8 @@ class script(object):
 \n<i>𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍</i>
 <b><i>Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will Provide Movies There..🥰</i></b>"""
     HELP_TXT = """<b>HEY {} DUDE 🙋‍♂️</b>
-\n<b>Just Add To Your Group As Admin Its All..☺️,</b> <i>I Will Provide Movies There...⚡️</i>"""
-    ABOUT_TXT = """ IAM JUST A <code> Auto-Filter-Bot </code>🚶‍♂️⚠️
+\n<b>Just Add To Your Group As Admin Its All.☺️,</b> \n<i>I Will Provide Movies There...⚡️</i>"""
+    ABOUT_TXT = """ <code> IAM JUST A  Auto-Filter-Bot </code>🚶‍♂️⚠️
 
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
 ➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
