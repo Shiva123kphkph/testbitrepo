@@ -31,7 +31,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 LONG_IMDB_DESCRIPTION = True
-MAX_LIST_ELM = None
+MAX_LIST_ELM = 4
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TeamEvamaria')
 P_TTTI_SHOW_OFF = eval((environ.get('P_TTTI_SHOW_OFF', "False")))
