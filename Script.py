@@ -7,7 +7,7 @@ class script(object):
 ○ You Can Check My status  Using This Command /Stats
 ○ Notice 📙:-
 
-\n<i>○YOU CAN'T USE ME..⚡️</i>
+\n○YOU CAN'T USE ME..⚡️
 ○Dont Spam Me...🤒
 
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🇮🇳/🇵🇹</a></b>"""
