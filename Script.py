@@ -3,7 +3,14 @@ class script(object):
 \n<i>𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍</i>
 \n<b><i>You Can't Use Me To Your Group Because Iam A Privet Bot..⚡️</i></b>"""
     HELP_TXT = """<b>HEY {} DUDE 🙋‍♂️</b>
-\n<b>IAM A PRIVET BOT.🥲,</b> \n<i>YOU CAN'T USE ME..⚡️</i>"""
+\n<b>○ Sorry bruh... I can't help You because I'm a private bot🥲
+○ You Can Check My status  Using This Command /Stats
+○ Notice 📙:-
+
+\n<i>○YOU CAN'T USE ME..⚡️</i>
+○Dont Spam Me...🤒
+
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🇮🇳/🇵🇹</a></b>"""
     ABOUT_TXT = """ <code> IAM JUST A  Auto-Filter-Bot </code>🚶‍♂️⚠️
 
 ○ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝐄𝐋𝐎𝐍 𝐌𝐔𝐒𝐊 🧛‍♂️
