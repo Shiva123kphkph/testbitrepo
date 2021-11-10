@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """<b>HOW ARE YOU {} DUDE 🤩,Nice To Meet You🙌</b>
 \n<i>𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍</i>
-<b><i>Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will Provide Movies There..🥰</i></b>"""
+\n<b><i>You Can't Use Me To Your Group Because Iam A Privet Bot..⚡️</i></b>"""
     HELP_TXT = """<b>HEY {} DUDE 🙋‍♂️</b>
-\n<b>Just Add To Your Group As Admin Its All.☺️,</b> \n<i>I Will Provide Movies There...⚡️</i>"""
+\n<b>IAM A PRIVET BOT.🥲,</b> \n<i>YOU CAN'T USE ME..⚡️</i>"""
     ABOUT_TXT = """ <code> IAM JUST A  Auto-Filter-Bot </code>🚶‍♂️⚠️
 
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
