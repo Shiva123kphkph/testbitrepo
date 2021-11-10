@@ -532,7 +532,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('STATS 🔖', callback_data='stats')
             ],[
             InlineKeyboardButton('Source ⭐', url='https://t.me/joinchat/aYbIjDgZqY9lYjQ9'),
-            InlineKeyboardButton('ABOUT 😎', callback_data='about')
+            InlineKeyboardButton('ABOUT 😎', callback_data='CALCULATE_BUTTONS')
             ],[
             InlineKeyboardButton('HOME 🏡', callback_data='start')
             ]]
