@@ -396,10 +396,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('⚡ WORKING GROUP ⚡', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton(' Help 😬', callback_data='help'),
+            InlineKeyboardButton('About 😒', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -409,16 +409,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('MANUAL FILTER 🔖', callback_data='manuelfilter'),
-            InlineKeyboardButton('AUTO FILTER 📂', callback_data='autofilter')
-            ],[
-            InlineKeyboardButton('CONNECTIONS ⚙️', callback_data='coct'),
-            InlineKeyboardButton('EXTRA MODS 😁', callback_data='extra')
-            ],[
             InlineKeyboardButton('GROUP 🎬', url='https://t.me/moviehubgroupp'),
-            InlineKeyboardButton('STATS ⭐', callback_data='stats')
+            InlineKeyboardButton('STATS 🔖', callback_data='stats')
             ],[
-            InlineKeyboardButton('PIN 📍', callback_data='pin'),
+            InlineKeyboardButton('Source ⭐', url='https://t.me/joinchat/aYbIjDgZqY9lYjQ9'),
             InlineKeyboardButton('ABOUT 😎', callback_data='about')
             ],[
             InlineKeyboardButton('HOME 🏡', callback_data='start')
