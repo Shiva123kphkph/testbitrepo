@@ -6,15 +6,15 @@ class script(object):
 \n<b>IAM A PRIVET BOT.🥲,</b> \n<i>YOU CAN'T USE ME..⚡️</i>"""
     ABOUT_TXT = """ <code> IAM JUST A  Auto-Filter-Bot </code>🚶‍♂️⚠️
 
-➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
-➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
-➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code>Everyone in this journey</code>
-➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
-➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <code>𝑷ʏᴛʜᴏɴ 3</code>
-➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href='https://www.mongodb.com/'>𝑴ᴏɴɢᴏ 𝑫ʙ</a>
-➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href='https://dashboard.heroku.com/apps'>𝑯ᴇʀᴏᴋᴜ</a>
-➪ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 : <a href='https://t.me/joinchat/aYbIjDgZqY9lYjQ9'>👉 𝑪ʟɪᴄᴋ 𝑯ᴇʀᴇ</a>
-➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : <code>v1.0.1 [ 𝑩ᴇᴛᴀ ]</code>
+○ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝐄𝐋𝐎𝐍 𝐌𝐔𝐒𝐊 🧛‍♂️
+○ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
+○ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code>Everyone in this journey</code>
+○ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
+○ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <code>𝑷ʏᴛʜᴏɴ 3</code>
+○ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href='https://www.mongodb.com/'>𝑴ᴏɴɢᴏ 𝑫ʙ</a>
+○ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href='https://dashboard.heroku.com/apps'>𝑯ᴇʀᴏᴋᴜ</a>
+○ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 : <a href='https://t.me/joinchat/aYbIjDgZqY9lYjQ9'>👉 𝑪ʟɪᴄᴋ 𝑯ᴇʀᴇ</a>
+○ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : <code>v1.0.1 [ 𝑩ᴇᴛᴀ ]</code>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും</code></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
   
